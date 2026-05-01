@@ -1,3 +1,4 @@
+![Quantum Analysis CI](https://github.com/[YOUR_USERNAME]/Quantum-Text-Analysis/actions/workflows/python-analysis.yml/badge.svg)
 # ⚛️ Quantum Spacing Analysis
 ### Research by Yasmina | Math Student
 
